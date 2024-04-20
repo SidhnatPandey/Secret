@@ -8,7 +8,6 @@ Secreto is a web application developed during leisure time to explore and compre
 
 # [Live demo🚀](https://secreto-delta.vercel.app/) 
 
-![secreto 3 call](/assets/vedio-call-with-friend.gif)
 
 
 ## Chat with Friends
