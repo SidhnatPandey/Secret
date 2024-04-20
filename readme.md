@@ -9,11 +9,11 @@ Secreto is a web application developed during leisure time to explore and compre
 
 ## Chat with Friends
 
-![secreto2 chat](https://generator9.s3.ap-southeast-2.amazonaws.com/second.gif)
+![secreto2 chat](/assets/second.gif)
 
 ## Video Call
 
-![secreto 3 call](https://generator9.s3.ap-southeast-2.amazonaws.com/vedio-call-with-friend.gif)
+![secreto 3 call](/assets/vedio-call-with-friend.gif)
 
 ## Purpose
 
