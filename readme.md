@@ -1,10 +1,10 @@
 # Secreto 🤫
 
-[![Sidhant LinkedIn](https://generator9.s3.ap-southeast-2.amazonaws.com/sidhant-linkedin.svg)](https://www.linkedin.com/in/sidhant-pandey01/) 
+[![Sidhant LinkedIn](/assets/sidhant-linkedin.svg)](https://www.linkedin.com/in/sidhant-pandey01/) 
 
 Secreto is a web application developed during leisure time to explore and comprehend various concepts. It utilizes technologies like jQuery, Bootstrap, HTML, CSS, and PeerJS to facilitate video/audio calls and chatting functionalities, resembling those found in social applications.
 
-![secreto1](https://generator9.s3.ap-southeast-2.amazonaws.com/first.gif)
+![secreto1](/assets/first.gif)
 
 
 ## Chat with Friends
@@ -33,7 +33,7 @@ The primary aim of this project is to serve as a learning resource and starting 
 
   Play with multiple designs:
 
-  ![card option 1](https://generator9.s3.ap-southeast-2.amazonaws.com/create.png)
+  ![card option 1](/assets//create.png)
 
 
 - Screen Sharing Feature: Explore and integrate screen sharing capabilities into the application.
@@ -42,7 +42,7 @@ The primary aim of this project is to serve as a learning resource and starting 
 - TURN Server Implementation: Research and incorporate TURN server functionality for improved connectivity.
 - Additional Features: Introduce unique features and functionalities to further enrich the user experience.
 - Collaborative Efforts: Collaborate with a team to provide UML diagrams, design wireframes, and other assets for project planning and development.
-  ![Design 1](https://generator9.s3.ap-southeast-2.amazonaws.com/Design.png)
+  ![Design 1](/assets/Design.png)
 - Design Themes
 - Quality Assurance: Contribute as a tester by writing automation scripts, performing testing, and ensuring the application's robustness and reliability.
 - Continuous Deployment: Explore deployment options using pipelines or GitHub Actions to automate the deployment process and ensure smooth updates and releases.
